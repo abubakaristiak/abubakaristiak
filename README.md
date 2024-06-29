@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" /> 
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **C, C++, Python**
+- 💬 Ask me about **C, C++, Python.**
 
 - 📫 How to reach me **abubakar119147@gmail.com**
 
