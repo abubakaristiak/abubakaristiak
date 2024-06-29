@@ -1,7 +1,7 @@
 ![logo](https://github.com/abubakaristiak/abubakaristiak/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Abu Bakar Istiak</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A Passionate Programmer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" /> 
 </p>
 
-- 🌱 I’m currently learning **Machine Learning and DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Python, Django, Java, Machine Learning, HTML, and CSS**
+- 💬 Ask me about **C, C++, Python**
 
 - 📫 How to reach me **abubakar119147@gmail.com**
 
