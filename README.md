@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abu Bakar Istiak</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/programmer-working-computer-office-programmer-coding-programming-illustration-flat-style-generative-ai_804788-60656.jpg?w=360"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" /> </p>
 
