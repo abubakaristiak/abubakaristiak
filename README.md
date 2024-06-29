@@ -63,3 +63,9 @@
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"></a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakaristiak&show_icons=true&locale=en&layout=compact" alt="abubakaristiak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&locale=en" alt="abubakaristiak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakaristiak&" alt="abubakaristiak" /></p>
+
