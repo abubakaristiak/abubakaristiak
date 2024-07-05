@@ -21,22 +21,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abubakaristiak" target="_blank">
+  <a href="https://linkedin.com/in/abubakaristiak" target="_blank" title="LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/abubakaristiak" target="_blank">
+  <a href="https://fb.com/abubakaristiak" target="_blank" title="Facebook">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/abu_bakar_istiak" target="_blank">
+  <a href="https://instagram.com/abu_bakar_istiak" target="_blank" title="Instagram">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://dribbble.com/abubakaristiak" target="_blank">
+  <a href="https://dribbble.com/abubakaristiak" target="_blank" title="Dribbble">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="40" title="LeetCode" />
+  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
 
 
 
