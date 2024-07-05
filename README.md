@@ -34,7 +34,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/abubakaristiak/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
