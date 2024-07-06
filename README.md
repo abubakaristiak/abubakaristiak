@@ -38,7 +38,11 @@
   <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" title="HackerRank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
