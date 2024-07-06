@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **abubakar119147@gmail.com**
 
-- ⚡ Fun fact **I am funny😎**
-
 - 📄 Know about my experiences: [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf)
+- 
+- ⚡ Fun fact **I am funny😎**
 
 
 
