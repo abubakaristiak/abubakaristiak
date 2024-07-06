@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am funny😎**
 
-- 📄 [My Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf)
 
 
 
