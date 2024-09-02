@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abu Bakar Istiak</h1>
 <h3 align="center">Competitive Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSahiDemon&psig=AOvVaw2gKpeB22yvMxAvo0_6U83P&ust=1725324975296000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJD_x6iGo4gDFQAAAAAdAAAAABAp" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" /> 
