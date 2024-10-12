@@ -72,7 +72,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
-  ![image](https://github.com/abubakaristiak/assets/ff298c92-7170-4dba-bfab-6da440431ccb)
 
 </p>
 
