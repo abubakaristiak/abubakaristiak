@@ -72,9 +72,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
-![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)
-
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" />
