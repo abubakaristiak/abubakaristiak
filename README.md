@@ -73,7 +73,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
   
-![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
 </p>
 
 <div align="center">
