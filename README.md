@@ -75,7 +75,6 @@
   
 
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=contest)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" />
   <br>
@@ -84,4 +83,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" />
   
 </div>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
