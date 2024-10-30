@@ -84,6 +84,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" />
   
 </div>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
+<div>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=contest)
+</div>
