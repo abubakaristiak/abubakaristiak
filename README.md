@@ -77,11 +77,11 @@
 </p>
 
 <div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" />
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?theme=wtf)
   
 </div>
