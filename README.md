@@ -84,3 +84,4 @@
   
 </div>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)
