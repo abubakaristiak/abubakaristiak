@@ -73,7 +73,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
   
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?theme=wtf)
 </p>
 
 <div align="center">
@@ -82,6 +82,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" />
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?theme=wtf)
   
 </div>
