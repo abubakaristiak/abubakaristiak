@@ -73,22 +73,36 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
 </p>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- Row 1: Top Languages and GitHub Stats -->
-  <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" width="390px" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="390px" height="200px" />
-  </div>
 
-  <!-- Row 2: GitHub Streak -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" width="820px" height="200px" />
-  </div>
 
-  <!-- Row 3: Leetcode Stats -->
-  <div>
-    <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="820px" height="200px" />
-  </div>
+
+
+
+<div align="center">
+  
+  <!-- Table to align stats -->
+  <table>
+    <tr>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" width="380px" />
+      </td>
+      <td>
+        <!-- GitHub Stats (Smaller Size) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="340px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- GitHub Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" width="720px" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Leetcode Stats (Smaller Size) -->
+  <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="720px" />
 
 </div>
+
