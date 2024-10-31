@@ -74,12 +74,28 @@
   </a> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" />
   
-</div>
+  <!-- Table to align stats -->
+  <table>
+    <tr>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" width="400px" />
+      </td>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- GitHub Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" width="820px" />
+      </td>
+    </tr>
+  </table>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap)
+  <!-- Leetcode Stats -->
+  <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="820px" />
+
+</div>
