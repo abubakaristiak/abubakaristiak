@@ -119,3 +119,6 @@
   <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="720px" />
 </div>
 
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?abubakar119147=redheadphone&theme=radical)
+
