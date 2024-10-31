@@ -22,39 +22,26 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 10px;">
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/abubakaristiak" target="_blank" title="LinkedIn" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+<p align="left">
+  <a href="https://linkedin.com/in/abubakaristiak" target="_blank" title="LinkedIn">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
-  <!-- Facebook -->
-  <a href="https://fb.com/abubakaristiak" target="_blank" title="Facebook" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://fb.com/abubakaristiak" target="_blank" title="Facebook">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  
-  <!-- Instagram -->
-  <a href="https://instagram.com/abu_bakar_istiak" target="_blank" title="Instagram" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://instagram.com/abu_bakar_istiak" target="_blank" title="Instagram">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="40" />
   </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" title="HackerRank" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" title="HackerRank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/24443628/abu-bakar-istiak" target="_blank" title="Stack Overflow" style="padding: 5px; transition: transform 0.3s;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://stackoverflow.com/users/24443628/abu-bakar-istiak" target="_blank" title="Stack Overflow">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
 </p>
-
 
 
 
