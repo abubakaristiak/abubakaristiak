@@ -38,6 +38,7 @@
   <a href="https://stackoverflow.com/users/24443628/abu-bakar-istiak" target="_blank" title="Stack Overflow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
+
 </p>
 
 
@@ -72,6 +73,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
   </a> 
+  </n>
 </p>
 
 
