@@ -25,35 +25,36 @@
 <p align="left" style="display: flex; gap: 10px;">
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/abubakaristiak" target="_blank" title="LinkedIn" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://linkedin.com/in/abubakaristiak" target="_blank" title="LinkedIn" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
   
   <!-- Facebook -->
-  <a href="https://fb.com/abubakaristiak" target="_blank" title="Facebook" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://fb.com/abubakaristiak" target="_blank" title="Facebook" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
   
   <!-- Instagram -->
-  <a href="https://instagram.com/abu_bakar_istiak" target="_blank" title="Instagram" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://instagram.com/abu_bakar_istiak" target="_blank" title="Instagram" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://leetcode.com/u/abubakaristiak/" target="_blank" title="LeetCode" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="LeetCode" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
 
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" title="HackerRank" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" title="HackerRank" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
 
   <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/24443628/abu-bakar-istiak" target="_blank" title="Stack Overflow" style="border-radius: 50%; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" style="border-radius: 50%;"/>
+  <a href="https://stackoverflow.com/users/24443628/abu-bakar-istiak" target="_blank" title="Stack Overflow" style="padding: 5px; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);"/>
   </a>
 </p>
+
 
 
 
