@@ -95,7 +95,6 @@
 
 
 <div align="center">
-  
   <!-- Table to align stats -->
   <table>
     <tr>
@@ -104,8 +103,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" width="380px" />
       </td>
       <td>
-        <!-- GitHub Stats (Smaller Size) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="340px" />
+        <!-- GitHub Stats (Same Size) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="380px" />
       </td>
     </tr>
     <tr>
@@ -118,5 +117,5 @@
 
   <!-- Leetcode Stats (Smaller Size) -->
   <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="720px" />
-
 </div>
+
