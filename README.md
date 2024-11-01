@@ -123,5 +123,5 @@
 </div>
 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147&theme=dark)
 
