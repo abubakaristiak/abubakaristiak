@@ -8,6 +8,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" /> 
 </p>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
