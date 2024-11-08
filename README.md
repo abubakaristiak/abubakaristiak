@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently into **Competitive programming.**
 
 - 💬 Ask me about **C, C++, Python.**
 
