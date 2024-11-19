@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
+  
+  ![CodeChef Rating](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=CodeChef&query=rating&url=https%3A%2F%2Fcompetitive-coding-api.vercel.app%2Fapi%2Fcodechef%2F<abubakar119147>)
+
 </p>
 
 
