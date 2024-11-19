@@ -10,8 +10,9 @@
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
   
-  https://competitive-coding-api.vercel.app/api/codechef/<abubakar119147>
+  ### My Competitive Programming Stats
 
+- **CodeChef Rating:** 0
 
 </p>
 
