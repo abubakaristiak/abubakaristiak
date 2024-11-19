@@ -13,7 +13,7 @@
   ![CodeChef](https://img.shields.io/badge/CodeChef-1344-orange)
 
   
-  ![CodeChef Rating](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=CodeChef&query=rating&url=https%3A%2F%2Fcompetitive-coding-api.vercel.app%2Fapi%2Fcodechef%2F<abubakar119147>)
+  ![CodeChef Rating](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=CodeChef&query=rating&url=https%3A%2F%2Fcompetitive-coding-api.vercel.app%2Fapi%2Fcodechef%2F<abubakaristiak>)
 
 </p>
 
