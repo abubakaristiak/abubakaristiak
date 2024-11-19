@@ -9,10 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
-  
-  ### My Competitive Programming Stats
 
-- **CodeChef Rating:** 0
+  ![CodeChef](https://img.shields.io/badge/CodeChef-1344-orange)
 
 </p>
 
