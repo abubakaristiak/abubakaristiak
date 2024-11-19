@@ -10,8 +10,6 @@
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
   
-  ![CodeChef](https://img.shields.io/badge/CodeChef-1344-orange)
-  
   https://competitive-coding-api.vercel.app/api/codechef/<abubakar119147>
 
 
