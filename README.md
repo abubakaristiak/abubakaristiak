@@ -11,8 +11,8 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
 
   ![CodeChef](https://img.shields.io/badge/CodeChef-1322-orange)
-
-  ![LeetCode Contest Rating](https://img.shields.io/badge/LeetCode_Contest_Rating-1700-yellowgreen?logo=leetcode&logoColor=white)
+  &nbsp;&nbsp;
+  ![LeetCode](https://img.shields.io/badge/LeetCode_Contest_Rating-1700-yellowgreen?logo=leetcode&logoColor=white)
 
 
 </p>
