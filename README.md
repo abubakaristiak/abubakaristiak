@@ -14,9 +14,6 @@
   &nbsp;&nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-1428-yellowgreen?logo=leetcode&logoColor=white)
 
-  ![CodeChef](https://img.shields.io/badge/CodeChef-1322-orange?logo=codechef&logoColor=white)
-&nbsp;&nbsp;
-![LeetCode](https://img.shields.io/badge/LeetCode-1428-yellowgreen?logo=leetcode&logoColor=white)
 
 
 
