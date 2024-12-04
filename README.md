@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
 
-  ![CodeChef](https://img.shields.io/badge/CodeChef-1316-orange?logo=codechef&logoColor=white)
+  ![CodeChef](https://img.shields.io/badge/CodeChef-1313-orange?logo=codechef&logoColor=white)
   &nbsp;&nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-1368-yellowgreen?logo=leetcode&logoColor=white)
 
