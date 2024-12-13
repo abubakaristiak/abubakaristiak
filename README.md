@@ -12,7 +12,7 @@
 
   ![CodeChef](https://img.shields.io/badge/CodeChef-1368-orange?logo=codechef&logoColor=white)
   &nbsp;&nbsp;
-  ![LeetCode](https://img.shields.io/badge/LeetCode-1368-yellowgreen?logo=leetcode&logoColor=white)
+  ![LeetCode](https://img.shields.io/badge/LeetCode-1452-yellowgreen?logo=leetcode&logoColor=white)
 
 
 
