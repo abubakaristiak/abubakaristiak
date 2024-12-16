@@ -14,7 +14,8 @@
   &nbsp;&nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-1452-yellowgreen?logo=leetcode&logoColor=white)
 
-  [![wakatime](https://wakatime.com/badge/user/abubakaristiak)](https://wakatime.com/dashboard)
+  [![wakatime](https://wakatime.com/badge/user/abubakaristiak.svg)](https://wakatime.com/dashboard)
+
 
 
 
