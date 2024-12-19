@@ -10,11 +10,13 @@
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
   &nbsp;&nbsp;
+  
   ![CodeChef](https://img.shields.io/badge/CodeChef-1368-orange?logo=codechef&logoColor=white)
   &nbsp;&nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-1452-yellowgreen?logo=leetcode&logoColor=white)
-  &nbsp;&nbsp;
-  [![wakatime](https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg)](https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641)
+
+ [![wakatime](https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg)](https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641)
+ 
 </p>
 
 - 🌱 I’m currently into **Competitive programming.**
