@@ -19,12 +19,28 @@
  
 </p>
 
-🌱 I’m currently into **Competitive programming and problem-solving challenges.**  
-💬 Ask me about **C, C++, Python, and data structures.**  
-📫 How to reach me: **abubakar119147@gmail.com**  
-📄 Know about my experiences: [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf)  
-⚡ Fun fact: **I can make you laugh even while debugging! 😎**  
-🎯 Aspiring to become a **professional developer and mentor for coding enthusiasts.**  
+### 🚀 Competitive Programmer  
+
+🌱 **Currently diving into:**  
+   - Competitive programming 💻  
+   - Problem-solving challenges 🧩  
+
+💬 **Ask me about:**  
+   - Programming in **C, C++, Python** 🐍  
+   - Data structures and algorithms 🔗  
+
+📫 **Contact:**  
+   - [abubakar119147@gmail.com](mailto:abubakar119147@gmail.com) 📧  
+
+📄 **My experiences:**  
+   - [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf) 📜  
+
+⚡ **Fun fact:**  
+   - I can make you laugh even while debugging! 😎  
+
+🎯 **Goal:**  
+   - Becoming a **professional developer and mentor** 🧑‍💻  
+
 
 
 ---
