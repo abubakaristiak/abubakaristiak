@@ -14,7 +14,7 @@
   
   ![CodeChef](https://img.shields.io/badge/CodeChef-1472-orange?logo=codechef&logoColor=white)
   &nbsp;&nbsp;
-  ![LeetCode](https://img.shields.io/badge/LeetCode-1452-yellowgreen?logo=leetcode&logoColor=white)
+  ![LeetCode](https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white)
   
  [![wakatime](https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg)](https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641)
  
