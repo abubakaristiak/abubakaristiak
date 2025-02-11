@@ -133,6 +133,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147&theme=radical" alt="Codeforces Stats" width="720px" style="margin-top: 20px;" />
   </div>
   <div>
+    
     ![Istiak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=dracula)
 
   </div>
