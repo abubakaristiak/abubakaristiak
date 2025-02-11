@@ -130,6 +130,7 @@
   <div>
     <!-- LeetCode Stats -->
     <img src="https://leetcard.jacoblin.cool/abubakaristiak?ext=heatmap" alt="Leetcode Stats" width="720px" style="margin-top: 20px;" />
+    ---
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147&theme=radical" alt="Codeforces Stats" width="720px" style="margin-top: 20px;" />
   </div>
   
