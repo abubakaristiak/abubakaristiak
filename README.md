@@ -1,8 +1,6 @@
 ![Banner](https://github.com/abubakaristiak/abubakaristiak/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 
-
-
 <h1 align="center">Hi 👋, I'm Abu Bakar Istiak </h1>
 <h2 align="center">Competitive Programmer</h2>
 
