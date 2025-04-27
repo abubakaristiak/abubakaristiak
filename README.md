@@ -96,10 +96,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
 </p>
 
 ---
