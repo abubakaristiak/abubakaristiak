@@ -33,7 +33,10 @@
    - [abubakar119147@gmail.com](mailto:abubakar119147@gmail.com) 📧  
 
 📄 **My experiences:**  
-   - [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf) 📜  
+   - [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf) 📜
+
+📝 Blog:
+- [Visit My Medium Blog 🌐](https://medium.com/@abubakaristiak)
 
 ⚡ **Fun fact:**  
    - I can make you laugh even while debugging! 😎  
