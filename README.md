@@ -4,9 +4,49 @@
 <h2 align="center">Competitive Programmer</h2>
 
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20in%20Codeforces%2C%20CodeChef%2C%20LeetCode;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
 </p>
+
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank" style="text-decoration: none;">
+    <img alt="Portfolio" title="Portfolio" 
+         src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" 
+         style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
+  </a>
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img alt="Resume" title="Resume" 
+         src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" 
+         style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/abubakaristiak?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/abubakaristiak?color=FFD700&style=for-the-badge&labelColor=333&logo=star" alt="GitHub Stars"/>
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/abubakaristiak">
+    <img src="https://img.shields.io/github/followers/abubakaristiak?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
+  </a>
+
+  <!-- GitHub Profile Views -->
+  <a href="https://github.com/abubakaristiak">
+    <img src="https://komarev.com/ghpvc/?username=abubakaristiak&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </a> 
+</div>
+
+
 
 
 
