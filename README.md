@@ -10,13 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20in%20Codeforces%2C%20CodeChef%2C%20LeetCode;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=30&weight=700"/>
 </p>
 
-<!-- Title for top profile links -->
-<h3 align="center" style="font-weight: 800; font-size: 1.2rem; margin-bottom: 10px;">
-  Connect with Me
-</h3>
-
-<!-- Top profile links -->
-<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom: 30px;">
+<!-- top profile(linkedin,cv,stars,profile view) -->
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -47,28 +42,24 @@
   <!-- GitHub Profile Views -->
   <a href="https://github.com/abubakaristiak" target="_blank" style="display: inline-block;">
     <img src="https://komarev.com/ghpvc/?username=abubakaristiak&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  </a>
+  </a> 
 </div>
+<br>
 
-<!-- Title for stats badges -->
-<h3 align="center" style="font-weight: 800; font-size: 1.2rem; margin-bottom: 10px;">
-  Coding Stats & Activity
-</h3>
-
-<!-- Stats badges -->
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 28px;" />
-  
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" style="height: 28px;" />
-  
-  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef Badge" style="height: 28px;" />
-  
-  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode Badge" style="height: 28px;" />
-  
-  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641" target="_blank" style="display: inline-block; height: 28px;">
-    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime Badge" style="height: 28px;" />
+<p align="left" style="font-weight: 700; font-size: 1.1rem;">
+  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 35px;" />
+  &nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" style="height: 35px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef Badge" style="height: 35px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode Badge" style="height: 35px;" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641" target="_blank">
+    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime Badge" style="height: 35px;" />
   </a>
-</div>
+</p>
+
 
 
 
