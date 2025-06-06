@@ -48,24 +48,23 @@
 <br>
 
 
-
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
   &nbsp;&nbsp;
-  
-  ![CodeChef](https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white)
+  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef" />
   &nbsp;&nbsp;
-  ![LeetCode](https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white)
-  
- [![wakatime](https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg)](https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641)
- 
+  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641">
+    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="wakatime" />
+  </a>
 </p>
+
+
+
+
 
 ### 🚀 Competitive Programmer  
 
