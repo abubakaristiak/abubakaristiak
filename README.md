@@ -13,28 +13,28 @@
 <!-- Top profile links -->
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 36px;" />
   </a>
   <!-- Portfolio -->
-  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank" style="display: inline-block;">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" />
+  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" alt="Portfolio" style="height: 36px;" />
   </a>
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing" target="_blank" style="display: inline-block;">
-    <img alt="Resume" title="Resume" src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" />
+  <a href="https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" alt="Resume" style="height: 36px;" />
   </a>
   <!-- GitHub Stars -->
-  <a href="https://github.com/abubakaristiak?tab=repositories&sort=stargazers" target="_blank" style="display: inline-block;">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/abubakaristiak?color=FFD700&style=for-the-badge&labelColor=333&logo=star" alt="GitHub Stars" />
+  <a href="https://github.com/abubakaristiak?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/abubakaristiak?color=FFD700&style=for-the-badge&labelColor=333&logo=star" alt="GitHub Stars" style="height: 36px;" />
   </a>
   <!-- GitHub Followers -->
-  <a href="https://github.com/abubakaristiak" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/github/followers/abubakaristiak?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers" />
+  <a href="https://github.com/abubakaristiak" target="_blank">
+    <img src="https://img.shields.io/github/followers/abubakaristiak?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers" style="height: 36px;" />
   </a>
   <!-- GitHub Profile Views -->
-  <a href="https://github.com/abubakaristiak" target="_blank" style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=abubakaristiak&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <a href="https://github.com/abubakaristiak" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=abubakaristiak&style=for-the-badge&color=brightgreen" alt="Profile Views" style="height: 36px;" />
   </a>
 </div>
 
@@ -44,11 +44,10 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" style="height: 36px;" />
   <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef Badge" style="height: 36px;" />
   <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode Badge" style="height: 36px;" />
-  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641" target="_blank" style="display: inline-block; height: 36px;">
+  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641" target="_blank">
     <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime Badge" style="height: 36px;" />
   </a>
 </div>
-
 
 
 
