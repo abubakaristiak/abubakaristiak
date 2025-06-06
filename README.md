@@ -4,8 +4,9 @@
 <h2 align="center">Competitive Programmer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer;2%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
 </p>
+
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
