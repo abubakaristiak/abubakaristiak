@@ -15,52 +15,49 @@
   <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  
   <!-- Portfolio -->
-  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank" style="text-decoration: none;">
-    <img alt="Portfolio" title="Portfolio" 
-         src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" 
-         style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
+  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" alt="Portfolio"/>
   </a>
-
+  
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing" target="_blank" style="text-decoration: none;">
-    <img alt="Resume" title="Resume" 
-         src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" 
-         style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
+  <a href="https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" alt="Resume"/>
   </a>
-
+  
   <!-- GitHub Stars -->
   <a href="https://github.com/abubakaristiak?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/abubakaristiak?color=FFD700&style=for-the-badge&labelColor=333&logo=star" alt="GitHub Stars"/>
   </a>
-
+  
   <!-- GitHub Followers -->
   <a href="https://github.com/abubakaristiak">
     <img src="https://img.shields.io/github/followers/abubakaristiak?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
   </a>
-
+  
   <!-- GitHub Profile Views -->
   <a href="https://github.com/abubakaristiak">
     <img src="https://komarev.com/ghpvc/?username=abubakaristiak&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  </a> 
+  </a>
 </div>
-<br>
 
+<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="28"/>
   &nbsp;&nbsp;
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" height="28"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode" height="28"/>
   &nbsp;&nbsp;
   <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641">
-    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime" height="28"/>
   </a>
 </p>
+
 
 
 
