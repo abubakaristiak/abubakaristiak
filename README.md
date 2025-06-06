@@ -5,11 +5,12 @@
 
 
 
-
+// flying sentence
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20in%20Codeforces%2C%20CodeChef%2C%20LeetCode;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
 </p>
 
+// top profile(linkedin,cv,stars,profile view)
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abubakaristiak/" target="_blank">
@@ -49,23 +50,20 @@
 
 
 
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="abubakaristiak" />
+  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" />
   &nbsp;&nbsp;
-  
-  ![CodeChef](https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white)
+  <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef Badge" />
   &nbsp;&nbsp;
-  ![LeetCode](https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white)
-  
- [![wakatime](https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg)](https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641)
- 
+  <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@cc1b4659-38d1-4db5-8ed1-945a054f5641" target="_blank">
+    <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime Badge" />
+  </a>
 </p>
+
 
 ### 🚀 Competitive Programmer  
 
