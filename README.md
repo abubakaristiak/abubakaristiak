@@ -45,8 +45,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abubakaristiak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="28"/>
-  &nbsp;&nbsp;
+  
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" height="28"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CodeChef-1467-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
