@@ -76,7 +76,7 @@
    - [abubakar119147@gmail.com](mailto:abubakar119147@gmail.com) 📧  
 
 📄 **My experiences:**  
-   - [Resume](https://github.com/abubakaristiak/abubakaristiak/blob/main/CV.pdf) 📜
+   - [Resume](https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing) 📜
 
 📝 Blog:
 - [Visit My Medium Blog 🌐](https://medium.com/@abubakaristiak)
