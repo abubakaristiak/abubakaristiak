@@ -1,9 +1,6 @@
 ![Banner](https://github.com/abubakaristiak/abubakaristiak/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Abu Bakar Istiak </h1>
 <h2 align="center">Competitive Programmer</h2>
-
-
 
 
 <p align="center">
@@ -44,8 +41,28 @@
 
 <br/>
 
+
+## 👋 About Me
+
+I'm a passionate software enthusiast who thrives on **problem-solving** and **continuous learning**.  
+With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and growing skills in **Database** and **System Design**, I enjoy transforming complex challenges into efficient, real-world solutions.
+
+💻 Over the past **1.5 years**, I’ve solved **1500+ problems** across various online judges, including:
+
+- 🔹 **430+ problems** on [LeetCode](https://leetcode.com/u/abubakar119147/)
+- 🔸 **600+ problems** on [Codeforces](https://codeforces.com/profile/abubakar119147)
+- 🔹 **420+ problems** on [CodeChef](https://www.codechef.com/users/abubakar119147)
+
+---
+
+### 📊 Contest Ratings
+
+- 🟠 **Codeforces**: 984  
+- 🔵 **CodeChef**: 1425 (2★)  
+- 🟢 **LeetCode**: 1534  
+- ⏱️ **WakaTime**: 191 hrs 38 mins  
+
 <p align="center">
-  
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" height="28"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CodeChef-1425-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
@@ -56,9 +73,6 @@
     <img src="https://wakatime.com/badge/user/cc1b4659-38d1-4db5-8ed1-945a054f5641.svg" alt="Wakatime" height="28"/>
   </a>
 </p>
-
-
-
 
 
 
