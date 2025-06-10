@@ -119,7 +119,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/dart.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/dart1.png" alt="icon" width="65" height="65" />
       <br>Dart
     </td>
        <td align="center" width="96">
@@ -153,7 +153,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
       <br>Pycharm
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/linux.gif" width="48" height="48" alt="bootstrap" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/linux1.gif" width="48" height="48" alt="bootstrap" />
       <br>Linux
     </td>
     </td>
