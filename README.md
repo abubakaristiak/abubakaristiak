@@ -3,9 +3,8 @@
 <h2 align="center">Competitive Programmer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Learning%20Flutter%2C%20Becoming%20a%20Developer;1.5%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20on%20Various%20Judges;A%20Solo%20Learner&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Learning%20Flutter%2C%20Aspiring%20Developer;1.5%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20on%20Various%20Judges;A%20Solo%20Learner&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25" />
 </p>
-
 
 <div align="center">
   <!-- LinkedIn -->
@@ -62,7 +61,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 - ⏱️ **WakaTime**: 200+ hours
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" height="28"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces" height="28"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CodeChef-1425-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
   &nbsp;&nbsp;
@@ -107,62 +106,62 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/c.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/c.gif" alt="C Language" width="65" height="65" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/cplus.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/cplus.gif" alt="C++ Language" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/python.gif" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/python.gif" alt="Python Language" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/dart1.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/dart1.png" alt="Dart" width="65" height="65" />
       <br>Dart
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/html.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/html.gif" alt="HTML" width="65" height="65" />
       <br>HTML
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/css.gif" width="65" height="65" alt="GitHub" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/css.gif" alt="CSS" width="65" height="65"/>
       <br>CSS
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/flutter.gif" width="65" height="65" alt="Rest API" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/flutter.gif" alt="Flutter" width="65" height="65"/>
       <br>Flutter
   </tr>
   <tr>
       </td>
      <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/git.gif" width="48" height="48" alt="Postman" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/git.gif" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/github.gif" width="48" height="48" alt="Git" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/github.gif" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/vscode.gif" width="48" height="48" alt="HTML" />
-      <br>VScode
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/vscode.gif" width="48" height="48" alt="VSCode" />
+      <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/pycharm1.jpeg" width="48" height="48" alt="css" />
-      <br>Pycharm
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/pycharm1.jpeg" width="48" height="48" alt="Pycharm" />
+      <br>PyCharm
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/linux1.gif" width="48" height="48" alt="bootstrap" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/linux1.gif" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/kail.gif" width="48" height="48" alt="jquery" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/kail.gif" width="48" height="48" alt="Kail Linux" />
       <br>Kail Linux
         <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/figma.gif" width="48" height="48" alt="jquery" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/figma.gif" width="48" height="48" alt="Figma" />
       <br>Figma
   </tr>
 </table>
