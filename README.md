@@ -1,4 +1,4 @@
-![Banner](https://github.com/abubakaristiak/abubakaristiak/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![Banner](https://github.com/abubakaristiak/abubakaristiak/blob/main/images/cover.png)
 
 <h2 align="center">Competitive Programmer</h2>
 
