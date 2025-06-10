@@ -165,15 +165,6 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
         <td align="center" width="96">
         <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/figma.gif" width="48" height="48" alt="jquery" />
       <br>Figma
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/mysql.webp" width="48" height="48" alt="jquery" />
-      <br>MySQL
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/vs-code.gif" width="48" height="48" alt="jquery" />
-      <br>Vs-Code
-    </td>
   </tr>
 </table>
 
