@@ -42,7 +42,7 @@
 <br/>
 
 
-## <img src="assets/about_me.gif" width="6.5%"> About Me
+## <img src="about_me.gif" width="6.5%"> About Me
 
 I'm a passionate software enthusiast who thrives on **problem-solving** and **continuous learning**.  
 With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and growing skills in **Database** and **System Design**, I enjoy transforming complex challenges into efficient, real-world solutions.
