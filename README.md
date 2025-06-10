@@ -161,7 +161,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 ---
 
 
-## <img src="Statistics.gif" width=5% valign="bottom"> Github Stats
+## <img src="github_stars.gif" width=5% valign="bottom"> Github Stats
 <div align="center">
   <!-- Table to align stats -->
   <table>
