@@ -151,20 +151,20 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
       <br>VScode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/pycharm.gif" width="48" height="48" alt="css" />
+      <br>Pycharm
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/linux.gif" width="48" height="48" alt="bootstrap" />
+      <br>Linux
     </td>
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/sql.gif" width="48" height="48" alt="jquery" />
-      <br>SQL
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/kail.gif" width="48" height="48" alt="jquery" />
+      <br>Kail Linux
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/figma.gif" width="48" height="48" alt="jquery" />
+      <br>Figma
     </td>
         <td align="center" width="96">
         <img src="https://github.com/roniahamed/roniahamed/blob/main/img/mysql.webp" width="48" height="48" alt="jquery" />
