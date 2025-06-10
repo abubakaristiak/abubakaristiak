@@ -149,7 +149,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
       <br>VScode
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/pycharm.gif" width="48" height="48" alt="css" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/pycharm1.jpeg" width="48" height="48" alt="css" />
       <br>Pycharm
     </td>
     <td align="center"  width="96">
