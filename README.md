@@ -108,47 +108,47 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/c.gif" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/c-gif-logo.gif" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/cplus.gif" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+    <td align="center" width="96">
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/python.gif" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/dart.png" alt="icon" width="65" height="65" />
+      <br>Dart
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/html.gif" alt="icon" width="65" height="65" />
+      <br>HTML
+    </td>
+       <td align="center" width="96">
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/css.gif" width="65" height="65" alt="GitHub" />
+      <br>CSS
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/flutter.gif" width="65" height="65" alt="Rest API" />
+      <br>Flutter
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/git.gif" width="48" height="48" alt="Postman" />
+      <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/github.gif" width="48" height="48" alt="Git" />
+      <br>GitHub
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/vscode.gif" width="48" height="48" alt="HTML" />
+      <br>VScode
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
