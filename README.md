@@ -75,6 +75,35 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 </p>
 
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+<div align="center" style="margin: 20px 0;">
+    <a href="https://codeforces.com/profile/abubakar119147" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="Codeforces Logo" />
+    </a>
+    <a href="https://www.codechef.com/users/abubakar119147" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="CodeChef Logo" />
+    </a>
+    <a href="https://leetcode.com/u/abubakar119147/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=1F1F1F&style=for-the-badge" alt="LeetCode Logo" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/abubakar119147" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="HackerRank Logo" />
+    </a> 
+    <a href="https://toph.co/u/abubakaristiak" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=TOPH&logo=cube&label=&color=0E1726&logoColor=00DC82&labelColor=1F1F1F&style=for-the-badge" alt="Toph Logo" />
+  </a>
+    <a href="https://www.geeksforgeeks.org/user/abubakarf2an/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="GeeksforGeeks Logo" />
+    </a>
+    <a href="https://www.stopstalk.com/user/profile/abubakaristiak" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=StopStalk&logo=google-chrome&label=&color=DB4437&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="StopStalk Logo" />
+    </a>
+</div>
+
+---
+
+
+
 
 ### 🚀 Competitive Programmer  
 
