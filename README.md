@@ -2,7 +2,6 @@
 
 <h2 align="center">Competitive Programmer</h2>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20in%20Codeforces%2C%20CodeChef%2C%20LeetCode;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
 </p>
@@ -41,7 +40,6 @@
 
 <br/>
 
-
 ## <img src="about_me.gif" width="6.5%"> About Me
 
 I'm a passionate software enthusiast who thrives on **problem-solving** and **continuous learning**.  
@@ -57,10 +55,10 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ### 📊 Contest Ratings
 
-- 🟠 **Codeforces**: 984  
-- 🔵 **CodeChef**: 1425 (2★)  
-- 🟢 **LeetCode**: 1534  
-- ⏱️ **WakaTime**: 200+ hours  
+- 🟠 **Codeforces**: 984
+- 🔵 **CodeChef**: 1425 (2★)
+- 🟢 **LeetCode**: 1534
+- ⏱️ **WakaTime**: 200+ hours
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces Badge" height="28"/>
@@ -74,8 +72,8 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   </a>
 </p>
 
-
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
 <div align="center" style="margin: 20px 0;">
     <a href="https://codeforces.com/profile/abubakar119147" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=1F1F1F&style=for-the-badge" alt="Codeforces Logo" />
@@ -102,8 +100,8 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ---
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Languages and Tools
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -135,13 +133,13 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
           <td align="center" width="96">
         <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/flutter.gif" width="65" height="65" alt="Rest API" />
       <br>Flutter
-    </td>
+  </tr>
+  <tr>
+      </td>
      <td align="center" width="96">
         <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/git.gif" width="48" height="48" alt="Postman" />
       <br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://github.com/abubakaristiak/abubakaristiak/blob/main/images/github.gif" width="48" height="48" alt="Git" />
       <br>GitHub
@@ -168,33 +166,37 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   </tr>
 </table>
 
+### 🚀 Competitive Programmer
 
-### 🚀 Competitive Programmer  
+🌱 **Currently diving into:**
 
-🌱 **Currently diving into:**  
-   - Competitive programming 💻  
-   - Problem-solving challenges 🧩  
+- Competitive programming 💻
+- Problem-solving challenges 🧩
 
-💬 **Ask me about:**  
-   - Programming in **C, C++, Python** 🐍  
-   - Data structures and algorithms 🔗  
+💬 **Ask me about:**
 
-📫 **Contact:**  
-   - [abubakar119147@gmail.com](mailto:abubakar119147@gmail.com) 📧  
+- Programming in **C, C++, Python** 🐍
+- Data structures and algorithms 🔗
 
-📄 **My experiences:**  
-   - [Resume](https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing) 📜
+📫 **Contact:**
+
+- [abubakar119147@gmail.com](mailto:abubakar119147@gmail.com) 📧
+
+📄 **My experiences:**
+
+- [Resume](https://drive.google.com/file/d/14xSQEGbtdVSG9voGRv7TuwpeHhzshP-d/view?usp=sharing) 📜
 
 📝 Blog:
+
 - [Visit My Medium Blog 🌐](https://medium.com/@abubakaristiak)
 
-⚡ **Fun fact:**  
-   - I can make you laugh even while debugging! 😎  
+⚡ **Fun fact:**
 
-🎯 **Goal:**  
-   - Becoming a **professional developer and mentor** 🧑‍💻  
+- I can make you laugh even while debugging! 😎
 
+🎯 **Goal:**
 
+- Becoming a **professional developer and mentor** 🧑‍💻
 
 ---
 
@@ -253,8 +255,8 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ---
 
-
 ## <img src="github_stars.gif" width=5% valign="bottom"> Current Statistics
+
 <div align="center">
   <!-- Table to align stats -->
   <table>
@@ -301,16 +303,14 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   </div>
 </div>
 
-
-
 <!-- Codeforces -->
 <div align="center"> 
   <h2 align="center">Codeforces Info</h2> 
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147&theme=radical" alt="Codeforces Stats" width="720px" style="margin-top: 20px;" />
 </div>
 
-
 <!-- Contribution -->
-## <img src="graph.gif" width="5%"> My Contribution Graph
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
 
+## <img src="graph.gif" width="5%"> My Contribution Graph
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
