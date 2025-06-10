@@ -160,6 +160,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ---
 
+
 <div align="center">
   <!-- Table to align stats -->
   <table>
@@ -192,6 +193,8 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 
 ---
-![Istiak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=dracula)
+## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
 
 </div>
