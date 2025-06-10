@@ -3,8 +3,9 @@
 <h2 align="center">Competitive Programmer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Flutter%20Developer%20%7C%20C%2B%2B%20Enthusiast;2%2B%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20in%20Codeforces%2C%20CodeChef%2C%20LeetCode;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Learning%20Flutter%2C%20Becoming%20a%20Developer;1.5%20Years%20of%20Coding%20Experience;1500%2B%20Problems%20Solved%20on%20Various%20Judges;A%20Solo%20Learner&font=Fira%20Code&center=true&width=1000&height=45&color=ff79c6&vCenter=true&pause=1000&size=25" />
 </p>
+
 
 <div align="center">
   <!-- LinkedIn -->
