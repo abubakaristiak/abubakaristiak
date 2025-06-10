@@ -184,26 +184,40 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   </table>
 
   <!-- Additional Stats Section -->
-  <div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/u/abubakar119147/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="abubakaristiak" height="200" width="200" /></a>
- <a href="https://leetcode.com/u/abubakar119147/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="abubakaristiak" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/abubakar119147/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="abubakaristiak" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/abubakar119147/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="abubakaristiak" height="200" width="200" /></a>
-</p>
-  <div>
-    <!-- LeetCode Stats -->
-    <img src="https://leetcard.jacoblin.cool/abubakar119147?ext=heatmap" alt="Leetcode Stats" width="720px" style="margin-top: 20px;" />
+
+ <!-- Leetcode -->
+ <div align="center"> 
+  <h2 align="center">Leetcode Info</h2>  
+  <p align="center">
+    <a href="https://leetcode.com/u/abubakar119147/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/abubakar119147/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/abubakar119147/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/abubakar119147/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" height="200" width="200" />
+    </a>
+  </p>
+
+  <div style="margin-top: 20px;">
+    <img src="https://leetcard.jacoblin.cool/abubakar119147?ext=heatmap" alt="Leetcode Stats" width="720px" />
   </div>
+</div>
 
-  <div align="center"> 
-  <h2 align="center">Codeforces Info<h2> 
+
+
+<!-- Codeforces -->
+<div align="center"> 
+  <h2 align="center">Codeforces Info</h2> 
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abubakar119147&theme=radical" alt="Codeforces Stats" width="720px" style="margin-top: 20px;" />
+</div>
 
----
-## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
 
+<!-- Contribution -->
+## <img src="graph.gif" width="5%"> My Contribution Graph
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
 
-</div>
