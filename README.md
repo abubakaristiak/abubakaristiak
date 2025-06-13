@@ -55,7 +55,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ### 📊 Contest Ratings
 
-- 🟠 **Codeforces**: 984
+- 🟠 **Codeforces**: 1024
 - 🔵 **CodeChef**: 1442 (2★)
 - 🟢 **LeetCode**: 1534
 - ⏱️ **WakaTime**: 200+ hours
