@@ -48,15 +48,15 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 💻 Over the past **1.5 years**, I’ve solved **1500+ problems** across various online judges, including:
 
-- 🔹 **430+ problems** on [LeetCode](https://leetcode.com/u/abubakar119147/)
+- 🔹 **450+ problems** on [LeetCode](https://leetcode.com/u/abubakar119147/)
 - 🔸 **600+ problems** on [Codeforces](https://codeforces.com/profile/abubakar119147)
-- 🔹 **420+ problems** on [CodeChef](https://www.codechef.com/users/abubakar119147)
+- 🔹 **400+ problems** on [CodeChef](https://www.codechef.com/users/abubakar119147)
 
 ---
 
 ### 📊 Contest Ratings
 
-- 🟠 **Codeforces**: 1024
+- 🟠 **Codeforces**: 1028
 - 🔵 **CodeChef**: 1442 (2★)
 - 🟢 **LeetCode**: 1534
 - ⏱️ **WakaTime**: 200+ hours
