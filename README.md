@@ -1,4 +1,4 @@
-![Banner](https://github.com/abubakaristiak/abubakaristiak/blob/main/images/cover.png)
+![Banner](images/cover.png)
 
 <h2 align="center">Competitive Programmer</h2>
 
@@ -41,7 +41,7 @@
 
 <br/>
 
-## <img src="about_me.gif" width="6.5%"> About Me
+## <img src="images/about_me.gif" width="6.5%"> About Me
 
 I'm a passionate software enthusiast who thrives on **problem-solving** and **continuous learning**.  
 With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and growing skills in **Database** and **System Design**, I enjoy transforming complex challenges into efficient, real-world solutions.
@@ -182,7 +182,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ---
 
-## <img src="github_stars.gif" width=5% valign="bottom"> Current Statistics
+## <img src="images/github_stars.gif" width=5% valign="bottom"> Current Statistics
 
 <div align="center">
   <!-- Table to align stats -->
@@ -238,7 +238,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 <!-- Contribution -->
 
-## <img src="graph.gif" width="5%"> My Contribution Graph
+## <img src="images/graph.gif" width="5%"> My Contribution Graph
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
 
