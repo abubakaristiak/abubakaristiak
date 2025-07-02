@@ -64,7 +64,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces" height="28"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CodeChef-1442-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
+  <img src="https://img.shields.io/badge/CodeChef-1484-orange?logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LeetCode-1534-yellowgreen?logo=leetcode&logoColor=white" alt="LeetCode" height="28"/>
   &nbsp;&nbsp;
