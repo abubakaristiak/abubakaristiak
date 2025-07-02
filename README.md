@@ -56,10 +56,10 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ### 📊 Contest Ratings
 
-- 🟠 **Codeforces**: 1028
-- 🔵 **CodeChef**: 1442 (2★)
+- 🟠 **Codeforces**: 1128
+- 🔵 **CodeChef**: 1484 (2★)
 - 🟢 **LeetCode**: 1534
-- ⏱️ **WakaTime**: 200+ hours
+- ⏱️ **WakaTime**: 230+ hours
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=abubakar119147" alt="Codeforces" height="28"/>
