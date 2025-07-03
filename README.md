@@ -242,6 +242,10 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=abubakaristiak&theme=react-dark)
 
+---
+## Project that I contributed to
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MBSTUPC&repo=tech-companies-in-bangladesh&theme=gruvbox)](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer"/>
