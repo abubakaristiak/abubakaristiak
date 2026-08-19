@@ -181,29 +181,42 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   
 
 ---
-
-## <img src="images/github_stars.gif" width=5% valign="bottom"> Current Statistics
+## <img src="images/github_stars.gif" width="5%" valign="bottom"> Current Statistics
 
 <div align="center">
-  <!-- Table to align stats -->
+
   <table>
     <tr>
       <td>
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical" alt="Top Languages" width="380px" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical"
+          alt="Top Languages"
+          width="380"
+        />
       </td>
+
       <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical" alt="GitHub Stats" width="380px" />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical"
+          alt="GitHub Stats"
+          width="380"
+        />
       </td>
     </tr>
+
     <tr>
       <td colspan="2" align="center">
-        <!-- GitHub Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakaristiak&theme=radical" alt="GitHub Streak" width="720px" />
+        <img
+          src="https://streak-stats.demolab.com/?user=abubakaristiak&theme=radical"
+          alt="GitHub Streak"
+          width="720"
+        />
       </td>
     </tr>
   </table>
+
+</div>
+
 
   <!-- Additional Stats Section -->
 
