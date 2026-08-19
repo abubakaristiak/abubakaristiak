@@ -195,7 +195,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
         />
       </td>
 
-      <td>
+   <td>
         <img
           src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical"
           alt="GitHub Stats"
@@ -204,7 +204,7 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="2" align="center">
         <img
           src="https://streak-stats.demolab.com/?user=abubakaristiak&theme=radical"
