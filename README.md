@@ -188,25 +188,27 @@ With a solid foundation in **Data Structures & Algorithms (DSA)**, **Object-Orie
   <table>
     <tr>
       <td>
-       <!-- Top Languages -->
-           <img
-            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical"
-            alt="Top Languages"
-            width="380"
-          />
+        <!-- Top Languages -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaristiak&layout=compact&theme=radical"
+          alt="Top Languages"
+          width="380"
+        />
       </td>
 
-   <td>
-       <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical"
-          alt="GitHub Stats"
-          width="380"
+<td>
+      <!-- GitHub Stats -->
+  <img
+   src="https://github-readme-stats.vercel.app/api?username=abubakaristiak&show_icons=true&theme=radical"
+  alt="GitHub Stats"
+   width="380"
         />
       </td>
     </tr>
 
   <tr>
       <td colspan="2" align="center">
+        <!-- GitHub Streak -->
         <img
           src="https://streak-stats.demolab.com/?user=abubakaristiak&theme=radical"
           alt="GitHub Streak"
