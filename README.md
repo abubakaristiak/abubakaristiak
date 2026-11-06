@@ -12,11 +12,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <!-- Portfolio -->
-  <a href="https://abubakaristiak.github.io/portfolio.istiak/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" alt="Portfolio"/>
-  </a>
-  
   <!-- Resume -->
   <a href="https://drive.google.com/file/d/1krvgtemVtOD9Iz0RAB2391H8sIRfdoJz/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" alt="Resume"/>
